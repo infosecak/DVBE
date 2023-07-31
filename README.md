@@ -10,6 +10,10 @@ It is really easy to use this extension on your browser. Just follow the steps b
 3. Turn on Developer Mode 
 4. Click on Load Unpacked and load the extension
 
+# USEFUL LINKS
+https://courses.csail.mit.edu/6.857/2019/project/6-Li-Rosales-Yang.pdf
+
+
 # WARNING
 This tool is created purely for learning and educational purposes. I will not be responsible for any harmful actions. 
 
