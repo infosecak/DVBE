@@ -10,7 +10,7 @@ It is really easy to use this extension on your browser. Just follow the steps b
 3. Turn on Developer Mode 
 4. Click on Load Unpacked and load the extension
 
-#WARNING
+# WARNING
 This tool is created purely for learning and educational purposed. I will not be responsible for any harmful actions. 
 
 Please feel free to contribute to the tool
