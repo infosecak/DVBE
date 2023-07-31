@@ -30,6 +30,9 @@ These files include things like all the permissions, extension description and v
 3. https://developer.chrome.com/docs/extensions/mv3/security/
 4. https://arxiv.org/ftp/arxiv/papers/1403/1403.3235.pdf
 
+# TROUBLESHOOTING
+If the extension does not load, look for errors in chrome://extensions
+
 # WARNING
 This tool is created purely for learning and educational purposes. I will not be responsible for any harmful actions. 
 
