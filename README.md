@@ -33,4 +33,8 @@ These files include things like all the permissions, extension description and v
 # WARNING
 This tool is created purely for learning and educational purposes. I will not be responsible for any harmful actions. 
 
+# ACKNOWLEDGMENTS
+- The banner image is used from Flaticon.
+- Shoutout to all the amazing researchers who have worked on browser extension security previously
+
 Please feel free to contribute to the tool
