@@ -11,8 +11,10 @@ It is really easy to use this extension on your browser. Just follow the steps b
 4. Click on Load Unpacked and load the extension
 
 # USEFUL LINKS
-https://courses.csail.mit.edu/6.857/2019/project/6-Li-Rosales-Yang.pdf
-
+1. https://courses.csail.mit.edu/6.857/2019/project/6-Li-Rosales-Yang.pdf
+2. https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38394.pdf
+3. https://developer.chrome.com/docs/extensions/mv3/security/
+4. https://arxiv.org/ftp/arxiv/papers/1403/1403.3235.pdf
 
 # WARNING
 This tool is created purely for learning and educational purposes. I will not be responsible for any harmful actions. 
