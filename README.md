@@ -12,6 +12,15 @@ It is really easy to use this extension on your browser. Just follow the steps b
 
 # BCBE COMPONENTS
 <img width="422" alt="arch" src="https://github.com/infosecak/BCBE/assets/70256749/9ec395ea-4505-4784-892b-3085f2e1e270">
+BCBE includes files and folders:
+1. manifest.json
+2. popup.js
+3. popup.html
+4. popup.css
+5. Jquery
+6. Icons
+
+These files include all the permissions, extension description and version, the logic that is being used to run the extension. 
 
 
 # USEFUL LINKS
