@@ -10,6 +10,10 @@ It is really easy to use this extension on your browser. Just follow the steps b
 3. Turn on Developer Mode 
 4. Click on Load Unpacked and load the extension
 
+# TEST
+<img width="422" alt="arch" src="https://github.com/infosecak/BCBE/assets/70256749/9ec395ea-4505-4784-892b-3085f2e1e270">
+
+
 # USEFUL LINKS
 1. https://courses.csail.mit.edu/6.857/2019/project/6-Li-Rosales-Yang.pdf
 2. https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38394.pdf
