@@ -11,7 +11,7 @@ It is really easy to use this extension on your browser. Just follow the steps b
 4. Click on Load Unpacked and load the extension
 
 # BCBE COMPONENTS
-<img width="422" alt="arch" src="https://github.com/infosecak/BCBE/assets/70256749/9ec395ea-4505-4784-892b-3085f2e1e270">
+<img width="422" alt="arch" src="https://github.com/infosecak/BCBE/assets/70256749/ec52bee0-d649-443a-bbf1-0a402ea02d34">
 
 BCBE includes the following files and folders:
 - manifest.json
