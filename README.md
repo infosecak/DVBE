@@ -8,3 +8,5 @@ Badly Coded Browser Extension (BCBE) is an open-source Chrome Extension created 
 2. In Chrome Browser, go to chrome://extensions
 3. Turn on Developer Mode 
 4. Click on Load Unpacked and load the extension
+
+Please feel free to contribute to the tool.
