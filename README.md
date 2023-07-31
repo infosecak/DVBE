@@ -10,4 +10,4 @@ It is really easy to use this extension on your browser. Just follow the steps b
 3. Turn on Developer Mode 
 4. Click on Load Unpacked and load the extension
 
-Please feel free to contribute to the tool.
+Please feel free to contribute to the tool
