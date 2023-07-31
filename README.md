@@ -21,7 +21,7 @@ BCBE includes the following files and folders:
 5. Jquery
 6. Icons
 
-These files include all the permissions, extension description and version, the logic that is being used to run the extension. 
+These files include things like all the permissions, extension description and version, the logic that is being used to run the extension. 
 
 
 # USEFUL LINKS
