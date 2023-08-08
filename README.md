@@ -10,7 +10,7 @@ It is really easy to use this extension on your browser. Just follow the steps b
 3. Turn on Developer Mode 
 4. Click on Load Unpacked and load the extension
 
-# BCBE COMPONENTS
+# BCBE COMPONENTS 🔍
 <img width="422" alt="arch" src="https://github.com/infosecak/BCBE/assets/70256749/ec52bee0-d649-443a-bbf1-0a402ea02d34">
 
 BCBE includes the following files and folders:
@@ -24,19 +24,19 @@ BCBE includes the following files and folders:
 These files include things like all the permissions, extension description and version, the logic that is being used to run the extension. 
 
 
-# USEFUL LINKS
+# USEFUL LINKS 🔗
 1. https://courses.csail.mit.edu/6.857/2019/project/6-Li-Rosales-Yang.pdf
 2. https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38394.pdf
 3. https://developer.chrome.com/docs/extensions/mv3/security/
 4. https://arxiv.org/ftp/arxiv/papers/1403/1403.3235.pdf
 
-# TROUBLESHOOTING
+# TROUBLESHOOTING ❗
 If the extension does not load, look for errors in chrome://extensions
 
-# WARNING
+# WARNING ⚠️
 This tool is created purely for learning and educational purposes. I will not be responsible for any harmful actions. 
 
-# ACKNOWLEDGEMENTS
+# ACKNOWLEDGEMENTS 👏
 - Shoutout to all the amazing researchers who have worked on browser extension security previously
 - The banner has been created using Canva
 
