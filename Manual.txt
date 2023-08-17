@@ -1,0 +1,98 @@
+- What are Browser Extensions? 
+
+Browser extensions are software programs that can be installed within a web browser to enhance its 
+functionality and customize the browsing experience. These extensions are designed to provide 
+additional features, tools, and capabilities to the browser, to improve productivity, or convenience for 
+users.
+
+Some Popular Browser Extensions are: 
+• Wappalyzer 
+• Grammarly 
+• AdBlock 
+• LastPass 
+
+
+- Whats the need of Secure Browser Extensions?
+
+• Using insecure browser extensions can potentially compromise organizational data, resulting in possible data theft and financial loss.
+• Using insecure extensions can also aid attackers to spread malwares, putting the end users at risk.
+• Numerous organizations require in-house developed extensions to facilitate work-related tasks, yet often they lack the vision to create secure extensions.
+
+
+- Some Known permissions of chrome extensions: 
+
+activetab - Allows the extension to read the content of the currently active tab and 
+interact with it.
+ 
+storage - Enables the extension to store and retrieve data locally, such as 
+preferences or user settings.
+ 
+cookies - Grants access to browser cookies, allowing the extension to read, create, 
+modify, and delete cookies. 
+
+history - Provides access to the user's browsing history, allowing the extension to 
+query and manipulate the user's browsing history. 
+
+unlimitedStorage - Increases the amount of storage that the extension can use without 
+requesting additional storage permissions. 
+
+bookmarks - Allows the extension to manage the user's bookmarks, create new 
+bookmarks, and modify existing ones. 
+
+tabs - Enables the extension to query and manipulate browser tabs, including 
+opening, closing, and reloading tabs. 
+
+Alarms - Allows the extension to schedule and manage alarms, which can trigger 
+events at specific times. 
+
+notifications - Enables the extension to display desktop notifications to the user. 
+downloads - Grants the extension the ability to interact with the browser's download 
+manager and manage downloaded files.
+
+
+- How to load an extension in chrome Browser? 
+
+• Open chrome://extensions
+• Turn on Developer mode
+• Click on Load unpacked and upload the extension 
+
+
+- What is Badly Coded Browser Extension (BCBE) and what does it do? 
+
+BCBE is a chrome extension designed to show the vulnerabilities in browser extensions. This 
+extension serves as a hands-on learning tool for developers and security professionals. Upon 
+installation of BCBE, users experience simulated vulnerabilities firsthand, highlighting the potential 
+vulnerabilities found in poorly written extensions. 
+
+BCBE educates by demonstrating the tangible consequences of unpatched code, overreaching 
+permissions, and improper data handling. Through interactive exercises, users will understand secure 
+development practices, permissions management, and secure data handling for extensions. 
+By practicing on BCBE, users will be to understand how to perform Browser Extension Security 
+Assessments. 
+
+
+- Some Vulnerabilities covered by BCBE
+
+• Injection Attack
+• Insecure Communication
+• Hardcoding Issues
+• Local Storage Issues
+• Usage of vulnerable libraries
+• Depracated Version usage
+• Improper CSP configuration
+• Input Validation checks
+• Encryption Issues
+• Manipulation Attack etc
+
+
+- Some tools that can be used for Extension Assessments: 
+
+• ExtAnalysis
+• Tarnish 
+• DoubleX 
+• CRXcavator 
+• Burp Suite 
+• Process Hacker 
+• JSHint 
+• BeeF 
+• Chrome DevTools
