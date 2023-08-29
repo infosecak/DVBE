@@ -40,4 +40,4 @@ This tool is created purely for learning and educational purposes. I will not be
 - Shoutout to all the amazing researchers who have worked on browser extension security previously
 - The banner has been created using Canva
 
-Please feel free to contribute to the tool. The write up for the tool will be published once the tool is released publicly. 
+Please feel free to contribute to the tool. The write up for the tool will be published once the tool is released publicly.
