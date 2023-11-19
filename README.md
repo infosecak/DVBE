@@ -1,5 +1,5 @@
-# BADLY CODED BROWSER EXTENSION (BCBE)
-Badly Coded Browser Extension (BCBE) is an open-source Chrome Extension created to raise awareness among developers and security professionals regarding the security challenges posed by browser extensions. It is a vulnerable notes taking extension. BCBE will help you to uncover the file structure of extensions, vulnerabilities that are found are in browser extensions and how can we find these vulnerabilities. 
+# DAMN VULNERABLE BROWSER EXTENSION
+Damn Vulnerable Browser Extension (DVBE), previously named as Badly Coded Browser Extension (BCBE), is an open-source Chrome Extension created to raise awareness among developers and security professionals regarding the security challenges posed by browser extensions. It is a vulnerable notes taking extension. DVBE will help you to uncover the file structure of extensions, vulnerabilities that are found are in browser extensions and how can we find these vulnerabilities. 
 
 ![BADly coded Browser extension (1)](https://github.com/infosecak/BCBE/assets/70256749/2572832d-94a1-48c1-b03a-cba223342d30)
 
@@ -10,10 +10,10 @@ It is really easy to use this extension on your browser. Just follow the steps b
 3. Turn on Developer Mode 
 4. Click on Load Unpacked and load the extension
 
-# BCBE COMPONENTS 🔍
+# DVBE COMPONENTS 🔍
 <img width="422" alt="arch" src="https://github.com/infosecak/BCBE/assets/70256749/ec52bee0-d649-443a-bbf1-0a402ea02d34">
 
-BCBE includes the following files and folders:
+DVBE includes the following files and folders:
 - manifest.json
 - popup.js
 - popup.html
