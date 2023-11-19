@@ -71,7 +71,7 @@ By practicing on BCBE, users will be to understand how to perform Browser Extens
 Assessments. 
 
 
-- Some Vulnerabilities covered by BCBE
+- Some Vulnerabilities covered by DVBE
 
 • Injection Attack
 • Insecure Communication
