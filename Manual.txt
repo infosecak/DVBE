@@ -57,14 +57,14 @@ manager and manage downloaded files.
 • Click on Load unpacked and upload the extension 
 
 
-- What is Badly Coded Browser Extension (BCBE) and what does it do? 
+- What is Damn Vulnerable Browser Extension (DVBE) and what does it do? 
 
-BCBE is a chrome extension designed to show the vulnerabilities in browser extensions. This 
+DVBE is a chrome extension designed to show the vulnerabilities in browser extensions. This 
 extension serves as a hands-on learning tool for developers and security professionals. Upon 
 installation of BCBE, users experience simulated vulnerabilities firsthand, highlighting the potential 
 vulnerabilities found in poorly written extensions. 
 
-BCBE educates by demonstrating the tangible consequences of unpatched code, overreaching 
+DVBE educates by demonstrating the tangible consequences of unpatched code, overreaching 
 permissions, and improper data handling. Through interactive exercises, users will understand secure 
 development practices, permissions management, and secure data handling for extensions. 
 By practicing on BCBE, users will be to understand how to perform Browser Extension Security 
