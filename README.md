@@ -11,7 +11,7 @@ It is really easy to use this extension on your browser. Just follow the steps b
 4. Click on Load Unpacked and load the extension
 
 # DVBE COMPONENTS 🔍
-<img width="422" alt="arch" src="https://github.com/infosecak/BCBE/assets/70256749/ec52bee0-d649-443a-bbf1-0a402ea02d34">
+<img width="422" alt="arch" src="https://github.com/infosecak/DVBE/assets/70256749/917744c8-f1b7-469d-9648-0e24e286df9b">
 
 DVBE includes the following files and folders:
 - manifest.json
