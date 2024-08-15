@@ -13,7 +13,8 @@
   "permissions": [
     "activeTab",
     "cookies",
-"history"
+"history",
+    "audioCapture"
   ],
  "web_accessible_resources": [
         "*"]
