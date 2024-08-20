@@ -1,5 +1,5 @@
 # DAMN VULNERABLE BROWSER EXTENSION (DVBE)
-Damn Vulnerable Browser Extension (DVBE), previously named as Badly Coded Browser Extension (BCBE), is an open-source Chrome Extension created to raise awareness among developers and security professionals regarding the security challenges posed by browser extensions. It is a vulnerable notes taking extension. DVBE will help you to uncover the file structure of extensions, vulnerabilities that are found in browser extensions and how can we find these vulnerabilities. This open-source tool was presented in BlackHat Middle East & Africa in 2023 and BlackHat Asia in 2024 at the Arsenal Stage.
+Damn Vulnerable Browser Extension (DVBE), previously named as Badly Coded Browser Extension (BCBE), is an open-source Chrome Extension created to raise awareness among developers and security professionals regarding the security challenges posed by browser extensions. It is a vulnerable notes taking extension. DVBE will help you to uncover the file structure of extensions, vulnerabilities that are found in browser extensions and how can we find these vulnerabilities. This open-source tool was presented in BlackHat Asia in 2024 at the Arsenal Stage.
 
 ![Damn Vulnerable Browser Extension](https://github.com/user-attachments/assets/4b3fd903-1a4a-4b52-8263-9ba8c93df54d)
 
