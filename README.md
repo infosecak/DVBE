@@ -36,6 +36,9 @@ If the extension does not load, look for errors in chrome://extensions
 # WARNING ⚠️
 This tool is created purely for learning and educational purposes. I will not be responsible for any harmful actions. 
 
+# CONTRIBUTION
+This tool has been co-written by Krishna Chaganti (https://github.com/Krishnasch) 
+
 # ACKNOWLEDGEMENTS 👏
 - Shoutout to all the amazing researchers who have worked on browser extension security previously
 
