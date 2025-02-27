@@ -18,7 +18,9 @@
     "activeTab",
     "cookies",
     "history",
-    "audioCapture"
+    "audioCapture",
+    "idle",
+    "clipboardRead"
   ],
  "web_accessible_resources": [
         "*"]
